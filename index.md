@@ -1,4 +1,4 @@
-# Project Name Here
+# Pose Estimation
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
@@ -9,7 +9,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Pranav G | Irvington High School | Data Science / CSE | Incoming Senior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -78,7 +78,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Raspberry Pi 4 Starter Kit | Computing | $149 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/ref=sr_1_3?crid=2LSCXAYVEND7R&dib=eyJ2IjoiMSJ9.VmzHyLmBoYHzxIFtnWbp5P46ovZnz40k9gjFe9rZ0RcEPpkipFreTI-HormqxLXDApvl8921zFN7_RtLChz7gvjkAvd9sXryp5u32gi9jMPsAGx_PqW7CV2z4C925pBi8c-ndO-FdMupX-mTm-I5KEJEg42FwWlXnMK-5XkA5qE1gZfvv7epVYjHd8dpfFX2qpJrR8IOuapFCWP1vfGFMXbDdNlS1i558lxPGB8BISQ.9SNnBJRO2-iAf6iXGLRa-bfHFQpR68AyJDooPtHtiiE&dib_tag=se&keywords=rastech%2B4gb%2Bram&qid=1782846833&sprefix=rastech%2B4gb%2Bram%2Caps%2C179&sr=8-3&th=1)"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
