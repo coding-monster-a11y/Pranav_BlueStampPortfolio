@@ -1,5 +1,5 @@
 # Pose Estimation
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+I built a pose-tracking device using a Raspberry Pi, a camera, and a machine learning model that detects key points on a person's body — like shoulders, elbows, and knees — in real time. I fixed several hardware issues along the way, including switching to a different camera library for better reliability, and added a small screen that shows live stats like frame rate and how many body points are being detected. Now the device gives instant visual feedback on screen instead of only saving photos you'd have to check later.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML
@@ -19,39 +19,18 @@ You should comment out all portions of your portfolio that you have not complete
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eS6Krnuh100?si=k-Y2pik1kJ2L1Zvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+For my final milestone, I added a small OLED display to the project, giving it real-time visual feedback instead of only saving results silently to disk. This involved wiring the screen over I2C, troubleshooting a bent GPIO pin, and writing code to show live stats — frame rate, number of body keypoints detected, and system status — directly on the device as it runs. The final result is a fully working, self-contained pose-tracking device that lets you see exactly what it's detecting in real time, right on the hardware itself.
 
-
-
-# Second Milestone
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
 
 # First Milestone
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFuY0ifRM_0?si=FQZ-E5-gd6A0W1EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I got the core pose estimation system running on the Raspberry Pi, using a TensorFlow Lite PoseNet model to detect body keypoints from a live camera feed. Along the way, I debugged a camera compatibility issue by switching from OpenCV's video capture to the Picamera2 library, then fixed a resulting color tint bug to get accurate images. By the end of this milestone, the system could reliably capture frames, detect body keypoints, and save annotated images to the Pi.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
