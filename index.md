@@ -1,7 +1,6 @@
 # Pose Estimation
 I built a pose-tracking device using a Raspberry Pi, a camera, and a machine learning model that detects key points on a person's body — like shoulders, elbows, and knees — in real time. I fixed several hardware issues along the way, including switching to a different camera library for better reliability, and added a small screen that shows live stats like frame rate and how many body points are being detected. Now the device gives instant visual feedback on screen instead of only saving photos you'd have to check later.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
@@ -17,7 +16,6 @@ You should comment out all portions of your portfolio that you have not complete
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eS6Krnuh100?si=k-Y2pik1kJ2L1Zvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,7 +24,6 @@ For my final milestone, I added a small OLED display to the project, giving it r
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFuY0ifRM_0?si=FQZ-E5-gd6A0W1EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
