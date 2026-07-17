@@ -363,6 +363,7 @@ except KeyboardInterrupt:
 | Raspberry Pi 4 Starter Kit | Computing | $149 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6](https://www.amazon.com/RasTech-Raspberry-Starter-Heatsink-Screwdriver/dp/B0C8LV6VNZ/ref=sr_1_3?crid=2LSCXAYVEND7R&dib=eyJ2IjoiMSJ9.VmzHyLmBoYHzxIFtnWbp5P46ovZnz40k9gjFe9rZ0RcEPpkipFreTI-HormqxLXDApvl8921zFN7_RtLChz7gvjkAvd9sXryp5u32gi9jMPsAGx_PqW7CV2z4C925pBi8c-ndO-FdMupX-mTm-I5KEJEg42FwWlXnMK-5XkA5qE1gZfvv7epVYjHd8dpfFX2qpJrR8IOuapFCWP1vfGFMXbDdNlS1i558lxPGB8BISQ.9SNnBJRO2-iAf6iXGLRa-bfHFQpR68AyJDooPtHtiiE&dib_tag=se&keywords=rastech%2B4gb%2Bram&qid=1782846833&sprefix=rastech%2B4gb%2Bram%2Caps%2C179&sr=8-3&th=1)"> Link </a> |
 | ELEGOO OLED Display | Display | $10 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://a.co/d/0h0vKpFw)"> Link </a> |
 | Smraza Basic Starter Kit | Hardware | $12 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B01HRR7EBG?lv=shuf&_encoding=UTF8&social_share=cm_sw_r_cp_ud_dp_2HHPHANZD0NNWEPZRNMH&channelId=751&ref_=cm_sw_r_cp_ud_dp_2HHPHANZD0NNWEPZRNMH&plpRedirect=mhFallback&th=1)"> Link </a> |
+| PiCamera | Camera output | $13 | <a href="[[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://a.co/d/0h0vKpFw)](https://www.amazon.com/gp/product/B07RWCGX5K/ref=ox_sc_act_title_1?smid=A2IAB2RW3LLT8D&psc=1)"> Link </a> |
 
 # Other Resources/Examples
 All the tutorials and resources I used throughout the project timeperiod.
