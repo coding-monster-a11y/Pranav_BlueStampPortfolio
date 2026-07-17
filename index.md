@@ -371,4 +371,3 @@ All the tutorials and resources I used throughout the project timeperiod.
 - [Project Intro and Information]([https://sviatil0.github.io/Sviatoslav_BSE/](https://medium.com/analytics-vidhya/pose-estimation-on-the-raspberry-pi-4-83a02164eb8e))
 
 
-To watch the BSE tutorial on how to create a portfolio, click here.
