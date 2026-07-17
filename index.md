@@ -1,10 +1,6 @@
 # Pose Estimation
 I built a pose-tracking device using a Raspberry Pi, a camera, and a machine learning model that detects key points on a person's body — like shoulders, elbows, and knees — in real time. I fixed several hardware issues along the way, including switching to a different camera library for better reliability, and added a small screen that shows live stats like frame rate and how many body points are being detected. Now the device gives instant visual feedback on screen instead of only saving photos you'd have to check later.
 
-```HTML
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -372,9 +368,10 @@ except KeyboardInterrupt:
 | Smraza Basic Starter Kit | Hardware | $12 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/dp/B01HRR7EBG?lv=shuf&_encoding=UTF8&social_share=cm_sw_r_cp_ud_dp_2HHPHANZD0NNWEPZRNMH&channelId=751&ref_=cm_sw_r_cp_ud_dp_2HHPHANZD0NNWEPZRNMH&plpRedirect=mhFallback&th=1)"> Link </a> |
 
 # Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+All the tutorials and resources I used throughout the project timeperiod.
+
+- [Project Manual]([https://trashytuber.github.io/YimingJiaBlueStamp/](https://github.com/ecd1012/rpi_pose_estimation/blob/main/README.md))
+- [Project Intro and Information]([https://sviatil0.github.io/Sviatoslav_BSE/](https://medium.com/analytics-vidhya/pose-estimation-on-the-raspberry-pi-4-83a02164eb8e))
+
 
 To watch the BSE tutorial on how to create a portfolio, click here.
