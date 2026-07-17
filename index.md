@@ -25,9 +25,6 @@ For my final milestone, I added a small OLED display to the project, giving it r
 
 For my first milestone, I got the core pose estimation system running on the Raspberry Pi, using a TensorFlow Lite PoseNet model to detect body keypoints from a live camera feed. Along the way, I debugged a camera compatibility issue by switching from OpenCV's video capture to the Picamera2 library, then fixed a resulting color tint bug to get accurate images. By the end of this milestone, the system could reliably capture frames, detect body keypoints, and save annotated images to the Pi.
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
-
 # Code
 
 ```
